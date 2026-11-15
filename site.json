@@ -1,8 +1,12 @@
 {
-  "LauncherVersion": 5,
+  "LauncherVersion": 6,
   "MinLauncherVersion": 1,
   "Links": { "Discord": "", "Forum": "", "Rules": "", "Site": "" },
   "Notices": [
+    { "Date": "15.11.2026", "Title": "Браузер в игре — сам", "Text": "Лаунчер теперь сам скачивает и ставит браузер в игре (~143 МБ, один раз). Если игра открыта — закройте её и нажмите «Проверить файлы»." },
     { "Date": "14.11.2026", "Title": "Открыт бета-тест", "Text": "Спасибо, что тестируете My RP! Об ошибках пишите администрации." }
+  ],
+  "Packages": [
+    {"Name":"cef","Title":"Браузер в игре","Version":"1.4.0","Url":"https://github.com/topwolf/myrp-launcher-files/releases/download/cef-v140/cef_v140.zip","Sha256":"EF7C694FF4F9D1B9CC920B87F4791790CA71461FC5755C4BFBBB8B249C0E614D","Size":149763638,"CheckFiles":["cef.asi","cef/libcef.dll","cef/client.dll","cef/renderer.exe"]}
   ]
 }

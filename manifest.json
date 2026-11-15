@@ -1,11 +1,11 @@
 {
-  "Version": 8,
+  "Version": 10,
   "Server": "26.213.198.237:7777",
   "News": "Добро пожаловать в My RP!\r\n\r\nЭто первая версия лаунчера: он сам находит игру, обновляет файлы сервера и подключает к серверу.\r\n\r\nСкоро: обновлённые шрифты в интерфейсе игры, новый инвентарь, свои модели.\r\n",
   "MinLauncherVersion": 1,
-  "LatestLauncherVersion": 5,
+  "LatestLauncherVersion": 6,
   "LauncherUrl": "launcher/MyRP.exe",
-  "LauncherSha256": "047028CFCDE25417DE4C490D3875C6F3FC410BA9A446A7D2219CD9DA5BF50ECB",
+  "LauncherSha256": "19D49E36D28BFA4789D7840E5390158CD540951E3CF3464F9852AD4080939FE7",
   "Links": {
     "Discord": "",
     "Forum": "",
@@ -13,6 +13,11 @@
     "Site": ""
   },
   "Notices": [
+    {
+      "Date": "15.11.2026",
+      "Title": "Браузер в игре — сам",
+      "Text": "Лаунчер теперь сам скачивает и ставит браузер в игре (~143 МБ, один раз). Если игра открыта — закройте её и нажмите «Проверить файлы»."
+    },
     {
       "Date": "14.11.2026",
       "Title": "Открыт бета-тест",
@@ -25,6 +30,22 @@
       "Sha256": "F0A7724BF8FAECD3E9D696A6E4BD54FE2AF2A64A4BAE902F12EB24874563B272",
       "Size": 151,
       "Url": "game/myrp/readme.txt"
+    }
+  ],
+  "Packages": [
+    {
+      "Name": "cef",
+      "Title": "Браузер в игре",
+      "Version": "1.4.0",
+      "Url": "https://github.com/topwolf/myrp-launcher-files/releases/download/cef-v140/cef_v140.zip",
+      "Sha256": "EF7C694FF4F9D1B9CC920B87F4791790CA71461FC5755C4BFBBB8B249C0E614D",
+      "Size": 149763638,
+      "CheckFiles": [
+        "cef.asi",
+        "cef/libcef.dll",
+        "cef/client.dll",
+        "cef/renderer.exe"
+      ]
     }
   ]
 }
