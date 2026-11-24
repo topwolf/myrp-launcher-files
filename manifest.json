@@ -1,13 +1,13 @@
 {
-  "Version": 18,
+  "Version": 19,
   "Server": "26.213.198.237:7777",
   "News": "Добро пожаловать в My RP!\r\n\r\nЭто первая версия лаунчера: он сам находит игру, обновляет файлы сервера и подключает к серверу.\r\n\r\nСкоро: обновлённые шрифты в интерфейсе игры, новый инвентарь, свои модели.\r\n",
   "MinLauncherVersion": 1,
-  "LatestLauncherVersion": 8,
+  "LatestLauncherVersion": 9,
   "LauncherUrl": "https://raw.githubusercontent.com/topwolf/myrp-launcher-files/main/launcher/MyRP.exe",
-  "LauncherSha256": "AAB1DB1C9EFCF8870F93A03C3FBD43BF3E75BC9F94A44881221D39A7D76A6285",
+  "LauncherSha256": "EE88BA526B5F9620A5935322449CF26AAFD58C987D60BB75E383DDE8C9C68394",
   "LauncherLiteUrl": "https://raw.githubusercontent.com/topwolf/myrp-launcher-files/main/launcher/MyRP-lite.exe",
-  "LauncherLiteSha256": "1544059487504C4EE4DC3C9CCD28A4ED3773EFFADFC65EABEEDD30B35E37E0EA",
+  "LauncherLiteSha256": "276C525C8FC803DEDE37F347B4CF3F5DB2BF78470A7DB3E89446685AC00B82E5",
   "Links": {
     "Discord": "",
     "Forum": "",
