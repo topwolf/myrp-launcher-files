@@ -1,13 +1,13 @@
 {
-  "Version": 17,
+  "Version": 18,
   "Server": "26.213.198.237:7777",
   "News": "Добро пожаловать в My RP!\r\n\r\nЭто первая версия лаунчера: он сам находит игру, обновляет файлы сервера и подключает к серверу.\r\n\r\nСкоро: обновлённые шрифты в интерфейсе игры, новый инвентарь, свои модели.\r\n",
   "MinLauncherVersion": 1,
-  "LatestLauncherVersion": 7,
+  "LatestLauncherVersion": 8,
   "LauncherUrl": "https://raw.githubusercontent.com/topwolf/myrp-launcher-files/main/launcher/MyRP.exe",
-  "LauncherSha256": "41D707B40B785DF5B2985243DD533974FD42D101C3CA9DDA8D800D4573914639",
+  "LauncherSha256": "AAB1DB1C9EFCF8870F93A03C3FBD43BF3E75BC9F94A44881221D39A7D76A6285",
   "LauncherLiteUrl": "https://raw.githubusercontent.com/topwolf/myrp-launcher-files/main/launcher/MyRP-lite.exe",
-  "LauncherLiteSha256": "24C30AA2FE5278B0597E2CDCE92552668C03C0CCF9FD520512D49E8353182301",
+  "LauncherLiteSha256": "1544059487504C4EE4DC3C9CCD28A4ED3773EFFADFC65EABEEDD30B35E37E0EA",
   "Links": {
     "Discord": "",
     "Forum": "",
@@ -15,6 +15,11 @@
     "Site": ""
   },
   "Notices": [
+    {
+      "Date": "24.11.2026",
+      "Title": "Лаунчер v8 — праздник каждый месяц",
+      "Text": "Новый логотип, праздничная шапка месяца с падающими снежинками, листьями и цветами, конфетти и колокольчики при открытии (звук выключается в Настройках). В игре: пасс месяца с заданиями, подарок дня, окно «С возвращением»."
+    },
     {
       "Date": "15.11.2026",
       "Title": "Лаунчер v7",
